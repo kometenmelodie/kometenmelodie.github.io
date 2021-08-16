@@ -36,7 +36,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-<iframe src="html/map.html" height="600px" width="100%" style="border:none;">
+<iframe src="/html/map.html" height="600px" width="100%" style="border:none;">
 
 </iframe>
 
