@@ -36,10 +36,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-<iframe src="/html/map.html" height="600px" width="100%" style="border:none;">
+<iframe src="/files/map.html" height="600px" width="100%" style="border:none;">
 
 </iframe>
-
 #### Header 4
 
 *   This is an unordered list following a header.
