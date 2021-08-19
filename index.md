@@ -6,7 +6,7 @@ layout: default
 
 Die folgende Karte zeigt die diversen **Polizeidienststellen in Österreich**.
 
-Detailliertere Karten sind [hier zu finden.](./tree/main/html)
+Detailliertere Karten sind [hier zu finden.](https://github.com/kometenmelodie/kometenmelodie.github.io/tree/master/html)
 <iframe src="/html/map_7.0.html" height="600px" width="100%" style="border:none;">
 </iframe> 
 
