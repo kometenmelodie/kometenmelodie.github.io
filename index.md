@@ -100,7 +100,7 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-<iframe src="/html/map.html" height="600px" width="100%" style="border:none;">
+<iframe src="/html/map_2.0.html" height="600px" width="100%" style="border:none;">
 
 </iframe>
 
