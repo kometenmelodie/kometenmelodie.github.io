@@ -2,6 +2,12 @@
 layout: default
 ---
 
+Die folgende Karte zeigt die diversen Polizeidienststellen in Österreich.
+Detailliertere Karten sind hier zu finden.
+
+<iframe src="/html/map_7.0.html" height="600px" width="100%" style="border:none;">
+
+</iframe>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -100,9 +106,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-<iframe src="/html/map_2.0.html" height="600px" width="100%" style="border:none;">
-
-</iframe>
 
 ### Definition lists can be used with HTML syntax.
 
