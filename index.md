@@ -3,11 +3,13 @@ layout: default
 ---
 
 Die folgende Karte zeigt die diversen Polizeidienststellen in Österreich.
+
 Detailliertere Karten sind hier zu finden.
 
 <iframe src="/html/map_7.0.html" height="600px" width="100%" style="border:none;">
 
 </iframe>
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
