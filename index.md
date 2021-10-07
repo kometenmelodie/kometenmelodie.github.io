@@ -3,11 +3,11 @@ layout: default
 ---
 
 [Link to another page](./another-page.html).
+
 The following map shows the various **police stations in Austria**.
 
 More detailed maps can be found [here.](https://github.com/kometenmelodie/kometenmelodie.github.io/tree/master/html)
 
-Detailliertere Karten sind [hier zu finden.](https://github.com/kometenmelodie/kometenmelodie.github.io/tree/master/html)
 <iframe src="/html/map_7.0.html" height="600px" width="100%" style="border:none;">
 </iframe> 
 
