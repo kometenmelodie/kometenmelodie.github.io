@@ -17,6 +17,7 @@ More detailed choropleth maps can be found [here.](https://github.com/kometenmel
 
 <iframe src="/html/map_7.0.html" height="600px" width="100%" style="border:none;">
 </iframe> 
+
 * * *
 
 ### New passenger car registrations
