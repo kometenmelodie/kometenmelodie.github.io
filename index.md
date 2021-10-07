@@ -5,13 +5,25 @@ layout: default
 ## About
 
 This page hosts various machine learning projects. These center around Austria related data sets. All projects are done in two programming languages, either R or Python. In addition to code snippets, there are also links to open data sets used in these projects.
+* * *
 
-[Link to another page](./another-page.html).
+## Projects
 
-The following map shows the various **police stations in Austria**.
+### Austrian police stations
 
-More detailed maps can be found [here.](https://github.com/kometenmelodie/kometenmelodie.github.io/tree/master/html)
+The following map shows all **police stations in Austria**.
+
+More detailed choropleth maps can be found [here.](https://github.com/kometenmelodie/kometenmelodie.github.io/tree/master/html)
 
 <iframe src="/html/map_7.0.html" height="600px" width="100%" style="border:none;">
 </iframe> 
+* * *
+
+### New passenger car registrations
+
+Passenger cars play a central role in the fight against global warming.
+Moreover, one has the impression that traffic on Austria's roads is increasing every year. But how many passenger cars are registered in Austria? Is there also an upward trend in new registrations? These questions are answered [here](./another-page.html).
+['Open Data Österreich'](https://www.data.gv.at/katalog/dataset/d509ae53-9411-4154-b021-01545adb02ad) provides the data set. This data includes new registered cars since January 2000 and is updated each month.
+
+[New passenger car registrations](./another-page.html)
 * * *
