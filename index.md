@@ -20,7 +20,7 @@ More detailed choropleth maps can be found [here.](https://github.com/kometenmel
 
 * * *
 
-### New passenger car registrations
+### [New passenger car registrations](./another-page.html)
 
 Passenger cars play a central role in the fight against global warming.
 Moreover, one has the impression that traffic on Austria's roads is increasing every year. But how many passenger cars are registered in Austria? Is there also an upward trend in new registrations? These questions are answered [here](./another-page.html).
