@@ -13,7 +13,7 @@ This page hosts various machine learning projects. These center around Austria r
 
 The following map shows all **police stations in Austria**.
 
-A more detailed choropleth map can be found [here.](./html)
+A more detailed choropleth map can be found [here.](https://github.com/kometenmelodie/kometenmelodie.github.io/tree/main/html)
 
 <iframe src="/html/map_only_coordinates.html" height="600px" width="100%" style="border:none;">
 </iframe> 
