@@ -15,7 +15,7 @@ The following map shows all **police stations in Austria**.
 
 A more detailed choropleth map can be found [here.](https://github.com/kometenmelodie/kometenmelodie.github.io/tree/main/html)
 
-The dataset used for this map can be found on ['Open Data Österreich'.](https://www.data.gv.at/katalog/dataset/4e5c9414-2886-462e-b19f-a598ad065522)
+The dataset used for this map can be found on [Open Data Österreich.](https://www.data.gv.at/katalog/dataset/4e5c9414-2886-462e-b19f-a598ad065522)
 
 <iframe src="/html/map_only_coordinates.html" height="600px" width="100%" style="border:none;">
 </iframe>
@@ -26,7 +26,7 @@ The dataset used for this map can be found on ['Open Data Österreich'.](https:/
 
 Passenger cars play a central role in the fight against global warming.
 Moreover, one has the impression that traffic on Austria's roads is increasing every year. But how many passenger cars are registered in Austria? Is there also an upward trend in new registrations? These questions are answered [here](./another-page.html).
-['Open Data Österreich'](https://www.data.gv.at/katalog/dataset/d509ae53-9411-4154-b021-01545adb02ad) provides the data set. This data includes new registered cars since January 2000 and is updated each month.
+[Open Data Österreich](https://www.data.gv.at/katalog/dataset/d509ae53-9411-4154-b021-01545adb02ad) provides the data set. This data includes new registered cars since January 2000 and is updated each month.
 
 [Show notebook](./another-page.html)
 * * *
