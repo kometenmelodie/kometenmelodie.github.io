@@ -15,7 +15,7 @@ The following map shows all **police stations in Austria**.
 
 More detailed choropleth maps can be found [here.](https://github.com/kometenmelodie/kometenmelodie.github.io/tree/master/html)
 
-<iframe src="/html/map_7.0.html" height="600px" width="100%" style="border:none;">
+<iframe src="/html/map_only_coordinates.html" height="600px" width="100%" style="border:none;">
 </iframe> 
 
 * * *
