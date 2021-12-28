@@ -26,7 +26,7 @@ The dataset used for this map can be found on [Open Data Österreich.](https://w
 
 Passenger cars play a central role in the fight against global warming.
 Moreover, one has the impression that traffic on Austria's roads is increasing every year. But how many passenger cars are registered in Austria? Is there also an upward trend in new registrations? These questions are answered [here](./another-page.html).
-[Open Data Österreich](https://www.data.gv.at/katalog/dataset/d509ae53-9411-4154-b021-01545adb02ad) provides the data set. This data includes new registered cars since January 2000 and is updated each month.
+[Open Data Österreich](https://www.data.gv.at/katalog/dataset/d509ae53-9411-4154-b021-01545adb02ad) provides the data set. This data includes new registered cars since January 2000.
 
 [Show notebook](./another-page.html)
 * * *
